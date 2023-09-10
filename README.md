@@ -1,6 +1,18 @@
-# Getting Started with Create React App
+#Netflix-GPT
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- Login/ Sign up page
+  - Sign In/ Sign up Form
+  - redirecting to browse page
+- Browse Page (Only After authentication)
+- Header
+- Main Movie
+  - Trailer in Background
+  - Title and Description
+  - Movie Suggestions
+    - Movie Lists \* N
+- Netflix GPT
+  - Search bar
+  - Movie Suggestions
 
 ## Available Scripts
 
