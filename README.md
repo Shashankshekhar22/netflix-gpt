@@ -1,8 +1,13 @@
-#Netflix-GPT
+## Netflix-GPT
 
 - Login/ Sign up page
   - Sign In/ Sign up Form
   - redirecting to browse page
+  - Routing
+  - Form Validation
+  - useRef hook
+  - Firebase setup
+  - Deploying app in firebase
 - Browse Page (Only After authentication)
 - Header
 - Main Movie

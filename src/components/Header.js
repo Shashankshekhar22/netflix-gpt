@@ -1,5 +1,4 @@
 import React from "react";
-// import {Netflix_Logo_PMS.png} from '../assets/images/Netflix_Logo_PMS.png'
 
 const Header = () => {
   return (
