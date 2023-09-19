@@ -10,6 +10,7 @@
   - Deploying app in firebase
   - Sign In and Sign Up using firebase
   - Store set up with userSlice
+  - Update profile
 - Browse Page (Only After authentication)
 - Header
 - Main Movie
